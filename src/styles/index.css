@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(
+    45deg,
+    rgb(241, 241, 241) 0%,
+    rgb(192, 192, 192) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Style Script", cursive;
+  letter-spacing: 3px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p,
+a {
+  line-height: 1.3rem;
+  letter-spacing: 0.2rem;
+  color: #4e3800;
+}

@@ -1,0 +1,25 @@
+.header {
+  font-weight: 100;
+  font-family: "Biryani", sans-serif;
+}
+
+.navigation {
+  height: 50vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.logo {
+  position: relative;
+  width: 220px;
+}
+/* mobile */
+
+@media (max-width: 800px) {
+  .logo {
+    display: none;
+  }
+}

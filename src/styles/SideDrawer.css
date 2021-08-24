@@ -1,0 +1,25 @@
+.mobile_nav {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: black;
+  box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50%;
+  max-width: 400px;
+  z-index: 200;
+  transform: translateX(-100%);
+  transition: all 0.5s ease-in-out;
+}
+
+.mobile_nav.mobile_nav__open {
+  transform: translateX(0);
+}
+
+.logo_mobile {
+  width: 50%;
+}

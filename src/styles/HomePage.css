@@ -1,0 +1,22 @@
+.home_page__wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo_small {
+  width: 40%;
+  height: 40%;
+}
+
+.about_section {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+.about_section h1 {
+  padding: 20px 0px;
+}

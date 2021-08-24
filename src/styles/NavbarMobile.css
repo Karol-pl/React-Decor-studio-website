@@ -1,0 +1,33 @@
+.mobile_navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+  cursor: pointer;
+}
+
+.mobile_navbar > li {
+  list-style-type: none;
+  white-space: nowrap;
+  font-size: 1.5rem;
+  letter-spacing: 4px;
+  text-align: left;
+  padding: 10px 10px;
+}
+
+.mobile_navbar > li > a {
+  text-decoration: none;
+  position: relative;
+  opacity: 0.6;
+  color: #bb8800;
+  transition: all 0.5s ease-in-out;
+}
+
+.mobile_navbar > li > a:hover {
+  opacity: 1;
+}
+
+.mobile_navbar a.active {
+  opacity: 1;
+}

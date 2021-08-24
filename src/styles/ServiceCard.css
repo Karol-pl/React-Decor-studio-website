@@ -1,0 +1,110 @@
+.services {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  padding-left: 80px;
+}
+
+.service_card {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 270px;
+  height: 400px;
+  background: linear-gradient(
+    45deg,
+    rgba(216, 216, 216, 0.5) 0%,
+    rgba(2, 6, 14, 0.688) 100%
+  );
+  margin: 10px;
+  box-shadow: 3px 7px 15px rgba(72, 72, 72, 0.715);
+  border-radius: 5px;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.service_card:hover {
+  box-shadow: 10px 20px 20px rgba(72, 72, 72, 0.715);
+}
+
+.service_card img {
+  width: 100%;
+  height: 100%;
+  clip-path: circle(150px at 80% 20%);
+  top: 0;
+  left: 0;
+  position: relative;
+  transition: all 0.5s ease-in-out;
+}
+
+.service_card:hover img {
+  clip-path: circle(300px at 80% -30%);
+}
+
+.service_card h2 {
+  position: relative;
+  text-align: center;
+  transform: translateY(50px);
+  transition: all 0.6s ease-in-out;
+  color: black;
+}
+
+.service_card:hover h2 {
+  transform: translateY(0px);
+}
+
+.more_button {
+  cursor: pointer;
+  position: relative;
+  margin-bottom: 30px;
+  background: transparent;
+  color: #372c2e;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  line-height: 1.25rem;
+  letter-spacing: 0.25rem;
+  border: none;
+  padding: 19px 32px;
+  transition: all 1s ease;
+  transform: translateY(50px);
+  opacity: 0;
+  z-index: 999;
+}
+
+.service_card:hover .more_button {
+  opacity: 1;
+  transform: translateY(0px);
+}
+
+.more_button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-radius: 5px;
+  background: linear-gradient(
+    45deg,
+    rgba(31, 1, 255, 0.5) 0%,
+    rgba(255, 111, 0, 0.5) 100%
+  );
+  width: 56px;
+  height: 56px;
+  transition: all 0.5s ease;
+  z-index: -1;
+}
+
+.more_button:hover::before {
+  width: 100%;
+  background: linear-gradient(
+    45deg,
+    rgb(31, 1, 255, 1) 0%,
+    rgb(255, 111, 0, 1) 100%
+  );
+}
+
+.more_button:hover::before:active {
+  transform: scale(0.96);
+}

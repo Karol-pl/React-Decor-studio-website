@@ -1,0 +1,30 @@
+.toggle_button {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .toggle_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 24px;
+    width: 30px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    position: fixed;
+    left: 4%;
+    top: 5%;
+  }
+
+  .toggle_button:focus {
+    outline: none;
+  }
+
+  .toggle_line {
+    background-color: white;
+    width: 30px;
+    height: 0.2rem;
+    border-radius: 5px;
+  }
+}
