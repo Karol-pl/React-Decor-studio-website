@@ -6,7 +6,7 @@ Created using:
 * CSS3
 * HTML
 
-# View LIVE: https://karol-pl.github.io/
+# View LIVE: https://karol-pl.github.io/React-Decor-studio-website/
 
 
 # Getting Started with Create React App
