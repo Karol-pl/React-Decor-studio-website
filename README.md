@@ -1,3 +1,14 @@
+# React website template for decoration studio
+
+Created using:
+-ReactJS
+-React Router
+-CSS3
+-HTML
+
+# View LIVE: https://karol-pl.github.io/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
