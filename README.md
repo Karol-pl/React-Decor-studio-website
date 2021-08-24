@@ -1,10 +1,10 @@
 # React website template for decoration studio
 
 Created using:
--ReactJS
--React Router
--CSS3
--HTML
+* ReactJS
+* React Router
+* CSS3
+* HTML
 
 # View LIVE: https://karol-pl.github.io/
 
