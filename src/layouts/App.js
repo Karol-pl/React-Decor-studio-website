@@ -30,7 +30,7 @@ class App extends Component {
       backdrop = <Backdrop click={this.backdropClick} />;
     }
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="App">
           {backdrop}
           <main>
