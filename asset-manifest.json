@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-Decor-studio-website/static/css/main.9a397609.chunk.css",
+    "main.js": "/React-Decor-studio-website/static/js/main.825bcc58.chunk.js",
+    "main.js.map": "/React-Decor-studio-website/static/js/main.825bcc58.chunk.js.map",
+    "runtime-main.js": "/React-Decor-studio-website/static/js/runtime-main.3827dd06.js",
+    "runtime-main.js.map": "/React-Decor-studio-website/static/js/runtime-main.3827dd06.js.map",
+    "static/js/2.f04558ad.chunk.js": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js",
+    "static/js/2.f04558ad.chunk.js.map": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js.map",
+    "index.html": "/React-Decor-studio-website/index.html",
+    "static/css/main.9a397609.chunk.css.map": "/React-Decor-studio-website/static/css/main.9a397609.chunk.css.map",
+    "static/js/2.f04558ad.chunk.js.LICENSE.txt": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js.LICENSE.txt",
+    "static/media/car.486a1b5b.jpg": "/React-Decor-studio-website/static/media/car.486a1b5b.jpg",
+    "static/media/church.59ee7788.jpg": "/React-Decor-studio-website/static/media/church.59ee7788.jpg",
+    "static/media/cosmos.7d7e1be9.jpg": "/React-Decor-studio-website/static/media/cosmos.7d7e1be9.jpg",
+    "static/media/facebook.11896a22.svg": "/React-Decor-studio-website/static/media/facebook.11896a22.svg",
+    "static/media/gift.35ea5a1c.jpg": "/React-Decor-studio-website/static/media/gift.35ea5a1c.jpg",
+    "static/media/glass.465a1b51.jpg": "/React-Decor-studio-website/static/media/glass.465a1b51.jpg",
+    "static/media/glassball.c295509d.jpg": "/React-Decor-studio-website/static/media/glassball.c295509d.jpg",
+    "static/media/googlemaps.acd67792.svg": "/React-Decor-studio-website/static/media/googlemaps.acd67792.svg",
+    "static/media/instagram.da206351.svg": "/React-Decor-studio-website/static/media/instagram.da206351.svg",
+    "static/media/logo.bb032d11.svg": "/React-Decor-studio-website/static/media/logo.bb032d11.svg",
+    "static/media/rio.ea9f6b75.jpg": "/React-Decor-studio-website/static/media/rio.ea9f6b75.jpg",
+    "static/media/travel.aa468e9e.jpg": "/React-Decor-studio-website/static/media/travel.aa468e9e.jpg",
+    "static/media/water.c4bc6b86.jpg": "/React-Decor-studio-website/static/media/water.c4bc6b86.jpg",
+    "static/media/wedding.6e8ab0fa.jpg": "/React-Decor-studio-website/static/media/wedding.6e8ab0fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3827dd06.js",
+    "static/js/2.f04558ad.chunk.js",
+    "static/css/main.9a397609.chunk.css",
+    "static/js/main.825bcc58.chunk.js"
+  ]
+}
