@@ -108,3 +108,9 @@
 .more_button:hover::before:active {
   transform: scale(0.96);
 }
+
+@media (max-width: 1000px) {
+  .services {
+    padding: 0;
+  }
+}

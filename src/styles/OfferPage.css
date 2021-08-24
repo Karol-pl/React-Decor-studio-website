@@ -1,0 +1,48 @@
+.offer_return__btn {
+  cursor: pointer;
+  position: relative;
+  margin-bottom: 30px;
+  background: transparent;
+  color: #372c2e;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  line-height: 1.25rem;
+  letter-spacing: 0.25rem;
+  border: none;
+  padding: 19px 32px;
+  transition: all 1s ease;
+  transform: translateY(50px);
+  opacity: 1;
+  z-index: 999;
+}
+
+.offer_return__btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-radius: 5px;
+  background: linear-gradient(
+    45deg,
+    rgba(31, 1, 255, 0.5) 0%,
+    rgba(255, 111, 0, 0.5) 100%
+  );
+  width: 56px;
+  height: 56px;
+  transition: all 0.5s ease;
+  z-index: -1;
+}
+
+.offer_return__btn:hover::before {
+  width: 100%;
+  background: linear-gradient(
+    45deg,
+    rgb(31, 1, 255, 1) 0%,
+    rgb(255, 111, 0, 1) 100%
+  );
+}
+
+.offer_return__btn:hover::before:active {
+  transform: scale(0.96);
+}
