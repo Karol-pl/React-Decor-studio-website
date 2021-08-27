@@ -1,9 +1,8 @@
 # React website template for decoration studio
 
 Created using:
-* ReactJS
-* React Router
-* CSS3
+* ReactJS (React Router, Class components, Stateless components, Hooks {useState})
+* CSS3 (flexbox and grid)
 * HTML
 
 # View LIVE: https://karol-pl.github.io/React-Decor-studio-website/
