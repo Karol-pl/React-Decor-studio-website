@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Decor-studio-website/static/css/main.9a397609.chunk.css",
-    "main.js": "/React-Decor-studio-website/static/js/main.795a8d76.chunk.js",
-    "main.js.map": "/React-Decor-studio-website/static/js/main.795a8d76.chunk.js.map",
+    "main.js": "/React-Decor-studio-website/static/js/main.3cdfedf1.chunk.js",
+    "main.js.map": "/React-Decor-studio-website/static/js/main.3cdfedf1.chunk.js.map",
     "runtime-main.js": "/React-Decor-studio-website/static/js/runtime-main.3827dd06.js",
     "runtime-main.js.map": "/React-Decor-studio-website/static/js/runtime-main.3827dd06.js.map",
-    "static/js/2.f04558ad.chunk.js": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js",
-    "static/js/2.f04558ad.chunk.js.map": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js.map",
+    "static/js/2.a4544b0f.chunk.js": "/React-Decor-studio-website/static/js/2.a4544b0f.chunk.js",
+    "static/js/2.a4544b0f.chunk.js.map": "/React-Decor-studio-website/static/js/2.a4544b0f.chunk.js.map",
     "index.html": "/React-Decor-studio-website/index.html",
     "static/css/main.9a397609.chunk.css.map": "/React-Decor-studio-website/static/css/main.9a397609.chunk.css.map",
-    "static/js/2.f04558ad.chunk.js.LICENSE.txt": "/React-Decor-studio-website/static/js/2.f04558ad.chunk.js.LICENSE.txt",
+    "static/js/2.a4544b0f.chunk.js.LICENSE.txt": "/React-Decor-studio-website/static/js/2.a4544b0f.chunk.js.LICENSE.txt",
     "static/media/car.486a1b5b.jpg": "/React-Decor-studio-website/static/media/car.486a1b5b.jpg",
     "static/media/church.59ee7788.jpg": "/React-Decor-studio-website/static/media/church.59ee7788.jpg",
     "static/media/cosmos.7d7e1be9.jpg": "/React-Decor-studio-website/static/media/cosmos.7d7e1be9.jpg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3827dd06.js",
-    "static/js/2.f04558ad.chunk.js",
+    "static/js/2.a4544b0f.chunk.js",
     "static/css/main.9a397609.chunk.css",
-    "static/js/main.795a8d76.chunk.js"
+    "static/js/main.3cdfedf1.chunk.js"
   ]
 }
